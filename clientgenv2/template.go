@@ -8,7 +8,7 @@ import (
 
 	"github.com/99designs/gqlgen/codegen/config"
 	"github.com/99designs/gqlgen/codegen/templates"
-	gqlgencConfig "github.com/Yamashou/gqlgenc/config"
+	gqlgencConfig "github.com/rangzen/gqlgenc/config"
 )
 
 //go:embed template.gotpl
